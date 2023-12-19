@@ -10,6 +10,7 @@ const Todo = () => {
         const newTask = [...tasks,{title}];
         setTasks(newTask);
     };
+    
 
 const removeTask = (index) =>{
     const newTask = [...tasks];
