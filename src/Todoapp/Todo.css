@@ -2,10 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* background-color: maroon; */
+    background-color:conic-gradient(at right center, rgb(199, 210, 254), rgb(71, 85, 105), rgb(199, 210, 254));
 }
 .todo-container{
-    background: navy;
+    background:linear-gradient(to right, rgb(29, 78, 216), rgb(30, 64, 175), rgb(17, 24, 39));
     width: 50%;
     margin: 5em auto;
     border-radius: 10px;
@@ -25,7 +25,7 @@
 }
 
 .input-container{
-    background: navy;
+    background: linear-gradient(to right, rgb(15, 23, 42), rgb(88, 28, 135), rgb(15, 23, 42));
     padding:0.5em;
     border-radius: 1em;
     border: 2px solid darkgray;
@@ -58,7 +58,7 @@
     font-weight: bold;
     font-style: italic;
     /* color: yellow; */
-    background-color: navy;
+    background-color: linear-gradient(to right, rgb(56, 189, 248), rgb(103, 232, 249));
     border: 1px solid darkgray;
     border-radius: 5px;
     padding: 0.5em;
