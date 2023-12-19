@@ -1,7 +1,7 @@
 {
   "name": "todo-app",
   "version": "0.1.0",
-  "homepage": "https://ayisha-ss.github.io/Reactjs-ToDo-List/",
+  "homepage": "https://Ayisha-SS.github.io/Reactjs-ToDo-List/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
