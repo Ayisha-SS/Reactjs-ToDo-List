@@ -10,7 +10,7 @@ const AddTask = ({addTask}) => {
     return(
         <>
             <div className="input-container">
-                <input type="text" className="input" placeholder="Add new Task..." value={value} onChange={(e) =>{setValue(e.target.value);}}/>
+                <input type="text" className="input" placeholder="Add new Task..." value={value } onChange={(e) =>{setValue(e.target.value);}}/>
                 <button className="add-btn" onClick={addItem}>Add</button>
             </div>
         </>

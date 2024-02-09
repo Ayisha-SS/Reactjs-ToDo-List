@@ -50,14 +50,12 @@
     border: none;
     cursor: pointer;
     color:darkgray;
-    /* background-color: greenyellow; */
 }
 
 .list-task{
     font-size: 1.5em;
     font-weight: bold;
     font-style: italic;
-    /* color: yellow; */
     background-color: linear-gradient(to right, rgb(56, 189, 248), rgb(103, 232, 249));
     border: 1px solid darkgray;
     border-radius: 5px;
@@ -73,5 +71,4 @@
     cursor: pointer;
     color: darkgray;
     float: right;
-    /* background-color: yellow; */
 }
